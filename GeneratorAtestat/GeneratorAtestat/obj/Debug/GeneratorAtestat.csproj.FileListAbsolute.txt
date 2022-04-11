@@ -1,0 +1,9 @@
+c:\users\puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\bin\Debug\GeneratorAtestat.exe.config
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\bin\Debug\GeneratorAtestat.exe
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\bin\Debug\GeneratorAtestat.pdb
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.csprojResolveAssemblyReference.cache
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.Form1.resources
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.Properties.Resources.resources
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.csproj.GenerateResource.Cache
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.exe
+C:\Users\Puia\documents\visual studio 2013\Projects\GeneratorAtestat\GeneratorAtestat\obj\Debug\GeneratorAtestat.pdb
